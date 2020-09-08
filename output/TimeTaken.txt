@@ -1,0 +1,3 @@
+tokenizetesttime 0.017079
+ngramtesttime 0.498039
+cosinetesttime 0.498039
